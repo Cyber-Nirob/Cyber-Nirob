@@ -10,7 +10,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+Am+Cyber-Noman;+It's+Not+A+Just+Name+Bro;It's+A+Brand)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Cyber-Nirob;+It's+Not+Just+Name;It's+A+Brand)](https://git.io/typing-svg)
  
 </p>
  
@@ -27,7 +27,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 😏 MY Name IS :- HridoY Ahammed NiroB
+- 😏 Me 😎 :- HridoY Ahammed Nirob (Cyber Nirob)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
@@ -35,7 +35,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📕 SCHOOL & Class :- কমু না 😁
+- 📕 SCHOOL & College :-  থাক নাই বললাম 😩
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
@@ -47,7 +47,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 🤲🏻 Rellglon :- ISLAM
+- 🤲🏻 Religion :- ISLAM
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
@@ -55,15 +55,15 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱FB PagE :- [ Cyber Nirob ](https://www.facebook.com/Cyber.Nirob/)
+- 📱FB Page :- [ Cyber Nirob ](https://www.facebook.com/Cyber.Nirob/)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 💻 GiTHub:- [ Cyber-Nirob ](https://github.com/Cyber-Nirob)
+- 💻 GiTHub:- [ Cyber-Nirob ](https://github.com/Cyber-Nirob-Official)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ I Still Don't Recognize Myself
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
@@ -71,7 +71,7 @@
 [![Instagram](https://img.shields.io/badge/INsTa-%40Cyber.Nirob-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/Cyber.Nirob)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/CYBER.Nirob)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/CYBER.Nirob)
-[![Github](https://img.shields.io/badge/Github-Cyber-Nirobgreen?style=for-the-badge&logo=github)](https://github.com/cyber-Nirob)
+[![Github](https://img.shields.io/badge/Github-Cyber-Nirobgreen?style=for-the-badge&logo=github)](https://github.com/Cyber-Nirob)
  
 ### ⚙️   Language & programming
  
@@ -107,7 +107,7 @@
 </table>
 <br>
  
-### Profile Visitors ☹️💔
+### Profile Visitors 🙂
  
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Cyber-Noman.visitor-badge&left_color=blue&right_color=yellow)
 <br />
